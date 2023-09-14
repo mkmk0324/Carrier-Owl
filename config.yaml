@@ -1,11 +1,12 @@
 # arxivの学問領域の指定
-subject: 'cat:cond-mat.stat-mech'
+subject: 'cat:cond-mat.*'
 
 # 検索キーワード
 keywords:
-        skyrmioni: 3
+        skyrmion: 3
         magnetic: 3
-        neutron: 1
+        neutron: 2
+        quantum: 1
 
 # 通知の閾値
 score_threshold: 0
